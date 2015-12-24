@@ -1,0 +1,9 @@
+0e80d947eb8eb6b9b3226afe4afaf50c *DESCRIPTION
+b197d5764cd5a21877ed9534dd19a277 *NAMESPACE
+c03c62415b01062fbf148716bce54637 *R/multifwf.R
+21d429b2303cc7e3a3cdd629c687a0cd *R/read.multi.fwf.R
+3aec94241c06ce92789c26b79323b53e *README.md
+c5f9a02f7bc4af8e8c38b26b2e561342 *man/multifwf.Rd
+d66da8ff5f8e8d32e60043ca38712eb0 *man/read.multi.fwf.Rd
+f11f8fbd44f7fbf15bbf52f8e0f0665d *tests/testthat.R
+8ad5cd77fedfeda057d76684dd1631bc *tests/testthat/test_read.multi.fwf.R
